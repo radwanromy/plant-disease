@@ -23,9 +23,9 @@ plant-disease/ ├── src/ # Source code │ ├── train.py # Model train
 
 ### Prerequisites
 
-- macOS 12.0 (Monterey) or later
+- macOS 15.5
 - Python 3.11 (recommended for TensorFlow compatibility)
-- Apple Silicon Mac (M1, M2, M4, etc.)
+- Apple Silicon Mac (M4)
 - Git installed
 
 ### Installation
