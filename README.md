@@ -99,3 +99,11 @@ python app.py
 ### Quick Test
 #### Test with synthetic image
 python src/quick_test.py
+
+
+**Acknowledgments**
+
+ Dataset: PlantVillage Dataset (available on Mendeley Data)
+ Framework: TensorFlow and Keras teams
+ Inspiration: Various plant disease detection research papers
+ Apple: For Metal Performance Shaders and Apple Silicon
