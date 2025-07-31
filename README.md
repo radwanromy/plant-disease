@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)
 
-A deep learning application that classifies plant diseases from leaf images using TensorFlow. Optimized for Apple Silicon (M1/M2/M4) Macs with Metal GPU acceleration.
+A deep learning application that classifies plant diseases from leaf images using TensorFlow. Optimized for Apple Silicon (M4) Macs with Metal GPU acceleration.
 
 ## 🌟 Features
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 
 #### Create a new model
-python3.11 -m venv ai-venv
+python3.11 -m venv ai-venv<br>
 source ai-venv/bin/activate
 
 
@@ -88,11 +88,17 @@ python src/predict.py /path/to/your/image.jpg
 
 # Use default image (place sample_leaf.jpg in project root)
 python src/predict.py
+
+<img width="649" height="548" alt="image" src="https://github.com/user-attachments/assets/be56619e-a94d-4060-8c69-3fb2f65085f2" />
+
  
 ### Web Interface
 
 #### Start Flask server
 python app.py
+
+<img width="1576" height="1372" alt="image" src="https://github.com/user-attachments/assets/f137d1f8-1326-4564-898f-50a35f396179" />
+
 
 #### Open browser to http://localhost:5000
  
