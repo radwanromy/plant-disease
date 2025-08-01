@@ -81,7 +81,7 @@ python app.py
 <img width="1576" height="1372" alt="image" src="https://github.com/user-attachments/assets/f137d1f8-1326-4564-898f-50a35f396179" />
 
 
-#### Open browser to http://localhost:5000
+#### Open browser to http://localhost:5001
  
 ### Quick Test
 #### Test with synthetic image
