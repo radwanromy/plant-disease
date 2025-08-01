@@ -55,7 +55,7 @@ plant-disease/ ├── src/ # Source code │ ├── train.py # Model train
    cd plant-disease
    
 2. **Create virtual environment**
-python3.11 -m venv ai-venv
+python3.11 -m venv ai-venv<br>
 source ai-venv/bin/activate
 
 3. **Install dependencies**
