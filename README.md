@@ -34,25 +34,6 @@ plant-disease/ ├── src/ # Source code │ ├── train.py # Model train
    ```bash
    git clone https://github.com/radwanromy/plant-disease.git
    cd plant-disease
-
-
-16
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- macOS 12.0 (Monterey) or later
-- Python 3.11 (recommended for TensorFlow compatibility)
-- Apple Silicon Mac (M1, M2, M4, etc.)
-- Git installed
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/radwanromy/plant-disease.git
-   cd plant-disease
    
 2. **Create virtual environment**
 python3.11 -m venv ai-venv<br>
